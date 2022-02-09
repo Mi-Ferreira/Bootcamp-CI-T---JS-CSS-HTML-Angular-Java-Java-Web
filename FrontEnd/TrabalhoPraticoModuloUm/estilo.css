@@ -1,0 +1,21 @@
+html {
+  font-size: 25px;
+  font-family: "Arial";
+  color: yellow;
+  background-color: black;
+  margin: 6px;
+  padding: 0 6px;
+  box-sizing: content-box;
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-top: 120 px;
+}
+table {
+  table-layout: auto;
+}
+
+th,
+td {
+  text-align: auto;
+  padding-left: 1cm;
+}
